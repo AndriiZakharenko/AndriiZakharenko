@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&vCenter=true&width=380&height=30&lines=Frontend+Developer+-%3E+React%2C+Redux%2C+Next.js)](https://git.io/typing-svg)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?AndriiZakharenko=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me:
 
 
