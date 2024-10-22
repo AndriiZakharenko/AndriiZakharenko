@@ -12,14 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiZakharenko&show_icons=true)
 
 ![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-
-### Connect with me:
-
-
-### Languages:
-
-
-### Tools:
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AndriiZakharenko)
 
 
