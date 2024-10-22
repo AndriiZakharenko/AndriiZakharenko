@@ -38,6 +38,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>      
 </p>
 
+### Algorithms:
+<p align="left">
+![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
+</p>
+
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
@@ -48,7 +53,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiZakharenko&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiZakharenko&show_icons=true)
 
-![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
+
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AndriiZakharenko)
 
 
