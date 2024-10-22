@@ -50,7 +50,7 @@
 </p>
 
 ### Algorithms:
-![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
+![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/small)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndriiZakharenko?width=400&height=200&fontsize=10)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
