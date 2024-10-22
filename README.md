@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&vCenter=true&width=380&height=30&lines=Frontend+Developer+-%3E+React%2C+Redux%2C+Next.js)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&center=true&vCenter=true&width=380&height=30&lines=I+am+a+Frontend+Developer+specializing+in+JavaScript%2C+React%2C+TypeScript%2C+and+Next.js%2C+with+experience+in+creating+dynamic+web+applications.+Skilled+in+collaborative+teamwork%2C+bug+resolution%2C+and+project+management.+I+bring+strong+leadership%2C+problem-solving%2C+communication+abilities+and+am+still+committed+to+continuous+learning+and+innovation+in+web+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=1500&height=30&lines=I+am+a+Frontend+Developer+specializing+in+JavaScript%2C+React%2C+TypeScript%2C+and+Next.js%2C+with+experience+in+creating+dynamic+web+applications.)](https://git.io/typing-svg)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
