@@ -39,7 +39,7 @@
 </p>
 
 ### Algorithms:
-![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/small)
+![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
