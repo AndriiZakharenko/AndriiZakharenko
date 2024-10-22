@@ -56,8 +56,9 @@
 </p>
 
 ### Algorithms:
-![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
-![Leetcode Stats](https://leetcard.jacoblin.cool/AndriiZakharenko?width=500&height=200)
+![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/small)
+
+![Leetcode Stats](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAndriiZakharenko&logo=leetcode&logoColor=yellow)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
