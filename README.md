@@ -9,10 +9,7 @@
 <img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
 <img src="./icons/css.svg" alt="css" width="40" height="40"/> </a>
 <img src="./icons/js.svg" alt="js" width="40" height="40"/> </a>
-<img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-<img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-<img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-<img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
+<img src="./icons/js.svg" alt="js" width="40" height="40"/> </a>
 
 </p>
 
