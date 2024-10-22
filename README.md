@@ -40,7 +40,6 @@
 
 ### Algorithms:
 ![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AndriiZakharenko)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/TUr0DD70BZ)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
