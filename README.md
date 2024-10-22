@@ -8,6 +8,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AndriiZakharenko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiZakharenko)
+
 ### Connect with me:
 
 
