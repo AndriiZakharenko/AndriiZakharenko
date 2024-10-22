@@ -40,18 +40,19 @@
 
 ### Algorithms:
 ![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/small)
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AndriiZakharenko)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AndriiZakharenko)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TUr0DD70BZ)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiZakharenko&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiZakharenko&show_icons=true)
 
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AndriiZakharenko)
+
 
 
