@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/andrii-zakharenko/" target="_blank">![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fdou.ua%2Fusers%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=DOU&labelColor=black&color=white&link=https%3A%2F%2Fdou.ua%2Fusers%2Fandrii-zakharenko%2F)
 </a>
 
-
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### Certification:
 <p align="left">
