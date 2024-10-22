@@ -15,8 +15,6 @@
 
 <a href="https://www.linkedin.com/in/andrii-zakharenko/" target="_blank">![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=LinkedIn&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F)</a>
 
-<a href="https://www.linkedin.com/in/andrii-zakharenko/" target="_blank">![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=LinkedIn&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F)</a>
-
 </p>
 
 
