@@ -5,7 +5,7 @@
 
 I am a Frontend Developer specializing in JavaScript, React, TypeScript, and Next.js, with experience in creating dynamic web applications. Skilled in collaborative teamwork, bug resolution, and project management. I bring strong leadership, problem-solving, communication abilities and am still committed to continuous learning and innovation in web development.
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=grey&height=1)
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### Languages:
 <p align="left">
