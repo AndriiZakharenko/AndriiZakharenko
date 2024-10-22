@@ -40,7 +40,7 @@
 
 ### Algorithms:
 ![codewars](https://www.codewars.com/users/AndriiZakharenko/badges/large)
-![Leetcode Stats](https://leetcard.jacoblin.cool/TUr0DD70BZ?width=500&height=200)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AndriiZakharenko?width=500&height=200)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
