@@ -9,6 +9,13 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+
+### Certification:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+</p>
+
 ### Languages:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
