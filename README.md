@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&vCenter=true&width=380&height=30&lines=Frontend+Developer+-%3E+React%2C+Redux%2C+Next.js)](https://git.io/typing-svg)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)](https://github.com/AndriiZakharenko/github-profile-trophy)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AndriiZakharenko)
 
