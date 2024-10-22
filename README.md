@@ -10,7 +10,7 @@
 <img src="./icons/css.svg" alt="css" width="40" height="40"/> </a>
 <img src="./icons/javascript.svg" alt="javascript" width="37" height="37"/> </a>
 <img src="./icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
 
 </p>
 
