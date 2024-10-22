@@ -12,8 +12,8 @@
 
 ### Certification:
 <p align="left">
-<img src="./icons/freelancer.webp" alt="freelancer" width="40" height="40" />
-<img src="./icons/mate.png" alt="mate" width="40" height="40"/>
+<a href="https://www.youtube.com/@FreelancerLifeStyle"><img src="./icons/freelancer.webp" alt="freelancer" width="40" height="40" /></a>
+<a href="https://mate.academy/"><img src="./icons/mate.png" alt="mate" width="40" height="40"/></a>
 </p>
 
 ### Languages:
