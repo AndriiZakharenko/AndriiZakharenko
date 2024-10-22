@@ -7,8 +7,9 @@
 <p align="left">
   
 <img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="./icons/css.svg" alt="css" width="40" height="40"/> </a>
+<img src="./icons/js.svg" alt="js" width="40" height="40"/> </a>
+<img src="./icons/js.svg" alt="js" width="40" height="40"/> </a>
 
 </p>
 
