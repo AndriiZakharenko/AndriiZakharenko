@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&vCenter=true&width=380&height=30&lines=Frontend+Developer+-%3E+React%2C+Redux%2C+Next.js)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=1500&height=30&lines=I+am+a+Frontend+Developer+specializing+in+JavaScript%2C+React%2C+TypeScript%2C+and+Next.js%2C+with+experience+in+creating+dynamic+web+applications.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=000000&vCenter=true&width=1000&height=30&lines=I+am+a+Frontend+Developer+specializing+in+JavaScript%2C+React%2C+TypeScript%2C+and+Next.js%2C;with+experience+in+creating+dynamic+web+applications.)](https://git.io/typing-svg)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
