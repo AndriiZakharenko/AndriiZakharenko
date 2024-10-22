@@ -10,6 +10,10 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=LinkedIn&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F)
+
+
+
 ### Certification:
 <p align="left">
 <a href="https://www.youtube.com/@FreelancerLifeStyle" target="_blank"><img src="./icons/freelancer.webp" alt="freelancer" width="40" height="40" /></a>
@@ -56,6 +60,7 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiZakharenko&show_icons=true)
+
 
 
 
