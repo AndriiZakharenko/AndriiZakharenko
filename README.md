@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)](https://github.com/AndriiZakharenko/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndriiZakharenko)](https://git.io/streak-stats)
+
 ### Connect with me:
 
 
