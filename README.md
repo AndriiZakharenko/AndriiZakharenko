@@ -10,7 +10,7 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=LinkedIn&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F)
+<a href="https://www.linkedin.com/in/andrii-zakharenko/">![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F?style=plastic&logo=blue&label=LinkedIn&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrii-zakharenko%2F)</a>
 
 
 
