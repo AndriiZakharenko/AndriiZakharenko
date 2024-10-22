@@ -3,15 +3,21 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=000000&vCenter=true&width=380&height=30&lines=Frontend+Developer+-%3E+React%2C+Redux%2C+Next.js)
 
-### Languages:
+### Technologies:
 <p align="left">
-  
-<img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-<img src="./icons/css.svg" alt="css" width="40" height="40"/> </a>
-<img src="./icons/javascript.svg" alt="javascript" width="37" height="37"/> </a>
-<img src="./icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>          
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
+          
+          
+          
+          
+          
 </p>
 
 
