@@ -7,6 +7,10 @@ I am a Frontend Developer specializing in JavaScript, React, TypeScript, and Nex
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 ### Languages:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
@@ -45,7 +49,7 @@ I am a Frontend Developer specializing in JavaScript, React, TypeScript, and Nex
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AndriiZakharenko)
 
