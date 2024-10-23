@@ -18,6 +18,7 @@
 
 ### Certification:
 <p align="left">
+<a href="https://itstep.org/" target="_blank"><img src="./icons/step.png" alt="step" width="40" height="40"/></a>
 <a href="https://www.youtube.com/@FreelancerLifeStyle" target="_blank"><img src="./icons/freelancer.webp" alt="freelancer" width="40" height="40" /></a>
 <a href="https://mate.academy/" target="_blank"><img src="./icons/mate.png" alt="mate" width="40" height="40"/></a>
 </p>
