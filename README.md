@@ -5,7 +5,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko)
+![trophy](https://github-profile-trophy.vercel.app/?username=AndriiZakharenko&no-bg=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
