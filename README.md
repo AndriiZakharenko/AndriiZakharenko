@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/andrii-zakharenko" target="_blank">Andrii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&color=777&vCenter=true&multiline=true&repeat=false&width=478&height=160&lines=a+Frontend+Developer+specializing+in+JavaScript%2C+;React%2C+TypeScript%2C+Next.js.+Skilled+in+bug+;resolution%2C++collaborative+teamwork%2C+and+project++;management.+I+bring+strong+leadership%2C+;problem-solving%2C+communication+abilities%2C+++and++am+;still++committed+to+continuous+learning+and++;innovation+in+web+development.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&color=776&vCenter=true&multiline=true&repeat=false&width=478&height=160&lines=a+Frontend+Developer+specializing+in+JavaScript%2C+;React%2C+TypeScript%2C+Next.js.+Skilled+in+bug+;resolution%2C++collaborative+teamwork%2C+and+project++;management.+I+bring+strong+leadership%2C+;problem-solving%2C+communication+abilities%2C+++and++am+;still++committed+to+continuous+learning+and++;innovation+in+web+development.)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
