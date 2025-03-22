@@ -13,6 +13,7 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/andrii-zakharenko/)
 [![DOU](https://img.shields.io/badge/DOU-Profile-black?style=plastic)](https://dou.ua/users/andrii-zakharenko/)
+[![Djinni](https://img.shields.io/badge/Djinni-Profile-blueviolet?style=plastic)](https://djinni.co/q/d496314a02/)
 
 ---
 
